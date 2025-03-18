@@ -1,0 +1,178 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows10.0.22621": {
+      "Community.PowerToys.Run.Plugin.Dependencies/0.87.0": {
+        "type": "package",
+        "build": {
+          "buildTransitive/Community.PowerToys.Run.Plugin.Dependencies.props": {},
+          "buildTransitive/Community.PowerToys.Run.Plugin.Dependencies.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/lib/net9.0/PowerToys.Common.UI.dll": {
+            "assetType": "runtime",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/lib/net9.0/PowerToys.ManagedCommon.dll": {
+            "assetType": "runtime",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/lib/net9.0/PowerToys.Settings.UI.Lib.dll": {
+            "assetType": "runtime",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/lib/net9.0/Wox.Infrastructure.dll": {
+            "assetType": "runtime",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/lib/net9.0/Wox.Plugin.dll": {
+            "assetType": "runtime",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-x64/lib/net9.0/PowerToys.Common.UI.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/lib/net9.0/PowerToys.ManagedCommon.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/lib/net9.0/PowerToys.Settings.UI.Lib.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/lib/net9.0/Wox.Infrastructure.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/lib/net9.0/Wox.Plugin.dll": {
+            "assetType": "runtime",
+            "rid": "win-x64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Community.PowerToys.Run.Plugin.Dependencies/0.87.0": {
+      "sha512": "uCx6ihQjSeFWwwkLtVhLl6KC5eA+rPVkUPCJbAWj0JlKsYKXfFYjIbonMmBeSj+QUR3FUB8JCR8KEaTsue7UfA==",
+      "type": "package",
+      "path": "community.powertoys.run.plugin.dependencies/0.87.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "buildTransitive/Community.PowerToys.Run.Plugin.Dependencies.props",
+        "buildTransitive/Community.PowerToys.Run.Plugin.Dependencies.targets",
+        "community.powertoys.run.plugin.dependencies.0.87.0.nupkg.sha512",
+        "community.powertoys.run.plugin.dependencies.nuspec",
+        "icon.png",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.Common.UI.dll",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.Common.UI.pdb",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.ManagedCommon.dll",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.ManagedCommon.pdb",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.Settings.UI.Lib.dll",
+        "runtimes/win-arm64/lib/net9.0/PowerToys.Settings.UI.Lib.pdb",
+        "runtimes/win-arm64/lib/net9.0/Wox.Infrastructure.dll",
+        "runtimes/win-arm64/lib/net9.0/Wox.Infrastructure.pdb",
+        "runtimes/win-arm64/lib/net9.0/Wox.Plugin.dll",
+        "runtimes/win-arm64/lib/net9.0/Wox.Plugin.pdb",
+        "runtimes/win-x64/lib/net9.0/PowerToys.Common.UI.dll",
+        "runtimes/win-x64/lib/net9.0/PowerToys.Common.UI.pdb",
+        "runtimes/win-x64/lib/net9.0/PowerToys.ManagedCommon.dll",
+        "runtimes/win-x64/lib/net9.0/PowerToys.ManagedCommon.pdb",
+        "runtimes/win-x64/lib/net9.0/PowerToys.Settings.UI.Lib.dll",
+        "runtimes/win-x64/lib/net9.0/PowerToys.Settings.UI.Lib.pdb",
+        "runtimes/win-x64/lib/net9.0/Wox.Infrastructure.dll",
+        "runtimes/win-x64/lib/net9.0/Wox.Infrastructure.pdb",
+        "runtimes/win-x64/lib/net9.0/Wox.Plugin.dll",
+        "runtimes/win-x64/lib/net9.0/Wox.Plugin.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows10.0.22621": [
+      "Community.PowerToys.Run.Plugin.Dependencies >= 0.87.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\24oscnor\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\24oscnor\\programering\\projects\\eget\\Community.PowerToys.Run.Plugin.ptRunGeogebra\\Community.PowerToys.Run.Plugin.ptRunGeogebra.csproj",
+      "projectName": "Community.PowerToys.Run.Plugin.ptRunGeogebra",
+      "projectPath": "C:\\Users\\24oscnor\\programering\\projects\\eget\\Community.PowerToys.Run.Plugin.ptRunGeogebra\\Community.PowerToys.Run.Plugin.ptRunGeogebra.csproj",
+      "packagesPath": "C:\\Users\\24oscnor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\24oscnor\\programering\\projects\\eget\\Community.PowerToys.Run.Plugin.ptRunGeogebra\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\24oscnor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows10.0.22621.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows10.0.22621": {
+          "targetAlias": "net9.0-windows10.0.22621.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0-windows10.0.22621": {
+        "targetAlias": "net9.0-windows10.0.22621.0",
+        "dependencies": {
+          "Community.PowerToys.Run.Plugin.Dependencies": {
+            "target": "Package",
+            "version": "[0.87.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.22621.57, 10.0.22621.57]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref.Windows": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ID": "E6AA469ACDA14F989CE13674B385EB80",
+  "ActionKeyword": "ptrungeogebra",
+  "IsGlobal": false,
+  "Name": "ptRunGeogebra",
+  "Author": "hlaueriksson",
+  "Version": "0.87.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.ptRunGeogebra",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.ptRunGeogebra.dll",
+  "IcoPathDark": "Images\\ptrungeogebra.dark.png",
+  "IcoPathLight": "Images\\ptrungeogebra.light.png",
+  "DynamicLoading": false
+}
